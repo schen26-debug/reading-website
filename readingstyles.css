@@ -1,5 +1,5 @@
 *{
-    margin: 0;
+    margin: 2rem;
     padding: 0;
     box-sizing: border-box;
 }
@@ -22,6 +22,7 @@ p{
     margin-top: 2rem;
     color: #caeae3;
     line-height: 2;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 p1{
@@ -30,3 +31,26 @@ font-family: cursive;
 font-size: 20px;
 }
 
+
+.box{
+  background-color: rgba(182, 255, 242, 0.6);
+  color: #d7fff5;
+    box-sizing: content-box;
+    width:auto;
+    height:auto;
+    padding:30px;
+    margin: 50px auto;
+    text-align:justify;
+    line-height: 1.5em;
+    align-items: center;
+}
+
+.box2{
+    background-color: rgba(182, 255, 242, 0.6);
+    border-radius: 48%;
+}
+
+.box3{
+    background-color: rgba(182, 255, 242, 0.6);
+    border-radius: 40%;
+}
