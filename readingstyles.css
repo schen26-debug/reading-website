@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+text-align: center;
+background:#2e2e2e;
+margin-top: 2rem;
+margin-left: 15rem;
+margin-right: 15rem;
+}
+
+
+
+h1{
+    font-family: cursive;
+    color: #7cffde;
+    margin-bottom: 1rem;
+}
+p{
+    margin-top: 2rem;
+    color: #caeae3;
+    line-height: 2;
+}
+
+p1{
+   color: #7cffde;
+font-family: cursive;
+font-size: 20px;
+}
+

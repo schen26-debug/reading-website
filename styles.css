@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+background:#2e2e2e;
+margin: 0;
+}
+
+
+
+
+h1{
+font-size: 40px;
+}
+p1{
+color: #7cffde;
+opacity: 0;
+transition: opacity 0.6s ease;
+font-family: cursive;
+font-size: 50px;
+}
+p2{
+position: fixed;
+    top: 20px;
+    left: 20px;
+color: #7cffde;
+font-family: 'Courier New', Courier, monospace;
+font-size: 22px;
+}
+p1:hover{
+opacity: 1;
+}
+
+
+
+
+
+.a {
+    position: fixed;
+    top: 100px;
+    right: 20px;
+}
+.b {
+  position: fixed;
+    top: 550px;
+    right: 500px;
+}
+.c {
+  position: fixed;
+    top: 250px;
+    right: 700px;
+}
+
+
+
+
+
+
+
